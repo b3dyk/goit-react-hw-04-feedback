@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 300px;
+  height: 180px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.text {
+  font-weight: 500;
+}
+
+.optionText {
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.value {
+  font-weight: 400;
+}
